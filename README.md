@@ -9,7 +9,7 @@ Este projeto consistiu no desenvolvimento de uma API web em Java utilizando o fr
 - Postman: Ferramenta para testar a API, enviando requisições HTTP e analisando as respostas
 - Git: Sistema de controle de versão para versionamento do projeto no GitHub
 
-#### Vídeo de demonstração
+#### Fonte
 
 [Link para o vídeo](https://www.youtube.com/watch?v=wlYvA2b1BWI)
 
